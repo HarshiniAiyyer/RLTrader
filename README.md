@@ -1,7 +1,5 @@
 # RLTrader - Reinforcement Learning for Stock Trading                                                         
 
-# AI Stock Trader using Reinforcement Learning
-
 ![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-7B0099?style=for-the-badge&logo=yahoo&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
